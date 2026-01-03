@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import re
 from datetime import datetime
+from io import BytesIO
 
 
 st.title("🔢 Pemisahan Data Customer dengan Invoice by Andriy")
